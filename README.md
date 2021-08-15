@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GetsuGit
+- 👋 Hi, I’m Getsu
 - 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Programming Language
-- 📫 Instagram : getsu1995
+- 💞️ I use Java as my programming language
+- 📫 Cek me on instagram : getsu1995
 
 <!---
 GetsuGit/GetsuGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
